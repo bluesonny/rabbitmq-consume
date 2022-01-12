@@ -1,4 +1,4 @@
-# mq-consume
+# rabbitmq-consume
 rabbitmq消费队列
 
 实验性使用Go版本的rabbitMq队列消费数据

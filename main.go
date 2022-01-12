@@ -2,8 +2,8 @@ package main
 
 import (
 	"log"
-	. "mq-consume/handlers"
-	. "mq-consume/models"
+	. "rabbitmq-consume/handlers"
+	. "rabbitmq-consume/models"
 	"time"
 )
 

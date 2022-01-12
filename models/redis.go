@@ -3,7 +3,7 @@ package models
 import (
 	"github.com/gomodule/redigo/redis"
 	"log"
-	. "mq-consume/config"
+	. "rabbitmq-consume/config"
 	"time"
 )
 

@@ -6,7 +6,7 @@ import (
 	"github.com/panjf2000/ants/v2"
 	"github.com/streadway/amqp"
 	"log"
-	. "mq-consume/models"
+	. "rabbitmq-consume/models"
 )
 
 type Consumer struct {

@@ -2,7 +2,7 @@ package models
 
 import (
 	"fmt"
-	. "mq-consume/config"
+	. "rabbitmq-consume/config"
 	"time"
 )
 

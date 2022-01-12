@@ -1,4 +1,4 @@
-module mq-consume
+module rabbitmq-consume
 
 go 1.17
 

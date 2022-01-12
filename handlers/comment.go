@@ -2,7 +2,7 @@ package handlers
 
 import (
 	"log"
-	. "mq-consume/models"
+	. "rabbitmq-consume/models"
 	"strconv"
 	"strings"
 )

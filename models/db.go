@@ -7,7 +7,7 @@ import (
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
 	"log"
-	. "mq-consume/config"
+	. "rabbitmq-consume/config"
 )
 
 var Db *sql.DB
